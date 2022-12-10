@@ -2,7 +2,7 @@
 If you would like to grap information about the matches and the countries participated in the World Cup 2022 , then this is your application
 
 # Deplyed URL
-https://jarrettbutler.github.io/WorldcupStats/#
+https://rufateskendarov.github.io/WorldcupStats/
 
 
 #
